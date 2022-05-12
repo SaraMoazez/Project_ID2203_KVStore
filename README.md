@@ -1,5 +1,5 @@
 # Project_ID2203_KVStore
-Project for the course ID2203 Distributed Systems, Advanced Course at KTH. A replicated distributed key-value store that supports the operations PUT and GET is implemented. 
+Project for the course ID2203 Distributed Systems, Advanced Course at KTH. A replicated key-value store that supports the operations PUT and GET is implemented. 
 
 # How to run
 
